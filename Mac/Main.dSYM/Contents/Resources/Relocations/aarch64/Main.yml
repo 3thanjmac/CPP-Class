@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanjmac/VSCode/CPP-Class/Mac/Main'
+relocations:     []
+...
